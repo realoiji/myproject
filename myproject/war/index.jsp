@@ -458,8 +458,7 @@
               <br>
               <div class="row clearfix">
                 <div class="col-md-6 column">
-                  <div class="text-center"> <img alt="140x140" src="http://lorempixel.com/140/140/"
-											class="img-circle"> </div>
+                  <div class="text-center"> <img src="img/Prach.jpg" class="img-circle icon"> </div>
                   <h3 class="text-center">นายปราชญ์ มีสัมฤทธิ์</h3>
                   <dl class="dl-horizontal">
                     <dt>Description</dt>
@@ -477,8 +476,7 @@
                   </dl>
                 </div>
                 <div class="col-md-6 column">
-                  <div class="text-center"> <img alt="140x140" src="http://lorempixel.com/140/140/"
-											class="img-circle"> </div>
+                  <div class="text-center"> <img src="img/Apiwat.jpg" class="img-circle icon"></div>
                   <h3 class="text-center">นายอภิวัฒน์ ทรงนิลรักษ์</h3>
                   <dl class="dl-horizontal">
                     <dt>Description</dt>
